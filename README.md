@@ -2,7 +2,7 @@
 Fizer is a script that allows you to transfer files between two devices or between a server and your device without needing an FTP or HTTP server. 
 It also logs all server activities.
 
-![alt text](img/Fizer.png)
+
 
 # Setup
 ```bash
